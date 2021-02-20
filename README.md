@@ -17,5 +17,5 @@ There are 3 main folders.
 2. Driver folder - contains the driver code for the peripherals i.e. '.c' and '.h' files
 3. Main Project Folder - contains all the files and the codeblocks project. a '.simu' file is also included for the simulation. Need simulIDE software to perform the simulation
 4. A report has been added along with the code explaining the requirements and software architecture.
-5. Video file has also been included which has been recorded using a phone, demonstrating the simulation's working, in case simulIDE is not available with a user.
+5. Video file has also been included demonstrating the simulation's working, in case simulIDE is not available with a user.
 
