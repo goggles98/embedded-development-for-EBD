@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1613550568 source:d:\code away\kpit submissions\embedded c submissions\milestone\2005557_mainproject\ebd_prototype\adc.c
+	"ADC.h"
+
+1613631294 d:\code away\kpit submissions\embedded c submissions\milestone\2005557_mainproject\ebd_prototype\adc.h
+	<avr/io.h>
+	"GPIO.h"
+
+1613466381 d:\code away\kpit submissions\embedded c submissions\milestone\2005557_mainproject\ebd_prototype\gpio.h
+	<avr/io.h>
+
+1613562831 source:d:\code away\kpit submissions\embedded c submissions\milestone\2005557_mainproject\ebd_prototype\fuse.c
+	<avr/io.h>
+
+1613636881 source:d:\code away\kpit submissions\embedded c submissions\milestone\2005557_mainproject\ebd_prototype\pwm.c
+	"PWM.h"
+
+1613654351 d:\code away\kpit submissions\embedded c submissions\milestone\2005557_mainproject\ebd_prototype\pwm.h
+	<avr/io.h>
+	"GPIO.h"
+
+1613637149 source:d:\code away\kpit submissions\embedded c submissions\milestone\2005557_mainproject\ebd_prototype\gpio.c
+	"GPIO.h"
+
+1613654662 source:d:\code away\kpit submissions\embedded c submissions\milestone\2005557_mainproject\ebd_prototype\main.c
+	<avr/io.h>
+	"system.h"
+	"read_wheel_loads.h"
+
+1613652469 d:\code away\kpit submissions\embedded c submissions\milestone\2005557_mainproject\ebd_prototype\system.h
+	<avr/io.h>
+	"ADC.h"
+	"PWM.h"
+	"GPIO.h"
+
+1613652470 source:d:\code away\kpit submissions\embedded c submissions\milestone\2005557_mainproject\ebd_prototype\system.c
+	"system.h"
+
+1613634151 d:\code away\kpit submissions\embedded c submissions\milestone\2005557_mainproject\ebd_prototype\read_wheel_loads.h
+	"system.h"
+
+1613635142 source:d:\code away\kpit submissions\embedded c submissions\milestone\2005557_mainproject\ebd_prototype\read_wheel_loads.c
+	"read_wheel_loads.h"
+
